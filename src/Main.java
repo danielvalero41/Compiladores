@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Error: "+e.getMessage());
         }
 
-        System.out.println("Fin");
+        System.out.println("Finalizar");
     }
 
 }
